@@ -7,4 +7,4 @@
 ---
 
 - ## KUBERNETES 40 CHECKS TO VERIFY IN PRODUCTION BEFORE GOING LIVE
-### **CLICK >>>> [**40 THINGS TO CHECK IN ORDER (First To Last)**]()**
+### **CLICK >>>> [**40 THINGS TO CHECK IN ORDER (First To Last)**](https://github.com/Prabhakarrayal/KUBERNETES/blob/main/kubernetes_productionEssentials_deployment_operations_readme.md)**
